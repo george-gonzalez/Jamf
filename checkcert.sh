@@ -2,7 +2,8 @@
 
 #Script to check for installed machine certificate and report the Expiry date.
 #Edited by George Gonzalez
-#2019.0718.1
+#Output result for use as Extension Attribute
+#2022.11.23.1
 
 #Get local user information - not currently used but just in case
 
